@@ -1,6 +1,6 @@
 # Quewui-zsh-theme
 
-I am a `oh-my-zsh` theme with clock, current user, directory and git info displayed in a simple and clean way. This theme is intended to be used in a dark terminal theme.
+I am a `oh-my-zsh` theme with current time, user, directory and git info displayed in a simple and clean way. This theme is intended to be used in a dark terminal theme.
 
 ###### Terminal example
 ![quewui.zsh-theme](https://raw.githubusercontent.com/kauefontes/quewui.theme/assets/example.PNG)  
