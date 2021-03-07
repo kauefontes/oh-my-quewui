@@ -2,6 +2,8 @@
 
 I am a `oh-my-zsh` theme with current time, user, directory and git info displayed in a simple and clean way. This theme is intended to be used in a dark terminal theme.
 
+[![Mentioned in Awesome ZSH Plugins](https://awesome.re/mentioned-badge.svg)](https://github.com/unixorn/awesome-zsh-plugins)
+
 ###### Terminal example
 ![quewui.zsh-theme](https://raw.githubusercontent.com/kauefontes/oh-my-quewui/assets/example.PNG)  
 
